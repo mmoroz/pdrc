@@ -8,4 +8,9 @@
 @theme {
     --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
         'Segoe UI Symbol', 'Noto Color Emoji';
+    --color-accent: #315cc1;
+}
+
+.footer{
+    background: linear-gradient(90deg,#494949 5.54%,#767676 54.74%,#4c4c4c 100%);
 }
